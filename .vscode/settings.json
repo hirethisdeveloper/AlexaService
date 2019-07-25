@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.env.osx": {
+        "PATH": "/Users/philpastorek/.platformio/penv/bin:/Users/philpastorek/.platformio/penv:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/usr/local/share/dotnet:/Applications/Wireshark.app/Contents/MacOS:/Users/philpastorek/Downloads/android-sdk-macosx/platform-tools:/Users/philpastorek/Library/Android/sdk/tools:/Users/philpastorek/Library/Android/sdk/platform-tools:/Users/philpastorek/.rvm/bin:~/Applications/TextMate.app/Contents/Resources:/usr/local/mysql/bin",
+        "PLATFORMIO_CALLER": "vscode"
+    }
+}
